@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 20px;
+    color:black
+}
+.heading:hover{
+    background-color:lightpink;
+    color:black;
+}
+.note{
+    color: black;
+    font-size: 15px;
+}
+.song_name{
+    font-size: 20px;
+    color:black
+}
+.song_name:hover{
+    background-color:thistle;
+    color:black;
+}
